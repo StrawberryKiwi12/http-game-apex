@@ -40,6 +40,8 @@ jobs:
     - name: Build
       run: |
         npm install
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v3
         
   # Deployment job
   deploy:
