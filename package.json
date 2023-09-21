@@ -22,8 +22,7 @@
     "webpack-dev-server": "4.7.4"
   },
   "engines": {
-    "node": "18.x",
-    "npm": "8.x"
+    "node": "18.x"
   },
   "pre-commit": [
     "prepare"
