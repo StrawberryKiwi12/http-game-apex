@@ -7,7 +7,7 @@ Linux *Apex Legends* connector powered by [http-driver](https://github.com/Rhein
 The easiest way to use `http-game-apex` is to navigate to your `http-driver` and load this connector:
 
 ```
-https://xradius.github.io/http-game-apex/
+https://Rheinhauss.github.io/http-game-apex/
 ```
 
 This is the *precompiled production connector*, which [updates automatically](https://github.com/Rheinhauss/http-game-apex/deployments/).
